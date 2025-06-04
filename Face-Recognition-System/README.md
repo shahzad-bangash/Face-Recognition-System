@@ -27,7 +27,7 @@ This project implements a **Face Recognition based Attendance System** using Pyt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shahzad-bangash/python-projects/tree/main/Face-Recognition-System
+   git clone https://github.com/shahzad-bangash/Face-Recognition-System
 
 2. pip install -r requirements.txt
 3. run python script
