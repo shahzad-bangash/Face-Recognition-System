@@ -37,14 +37,14 @@ This project implements a **Face Recognition based Attendance System** using Pyt
 1. 🔍 Face Detected
 
 The system detects faces in real-time from the webcam feed and marks them with bounding boxes.
-![Face Detected](project_demonstration/image_detected.png)
+<img src="project_demonstration/image_detected.png" alt="Face Detected" width="400"/>
 
 2. 🖥️ Terminal Output
 
 Recognized names and timestamps are displayed in the terminal for live feedback.
-![Terminal Output](project_demonstration/terminal_output.png)
+<img src="project_demonstration/terminal_output.png" alt="Terminal Output" width="400"/>
 
 3. 📝 Attendance Recorded
 
 Attendance is automatically recorded in the Attendence.csv file.
-![Attendence Recorded](project_demonstration/attendence_recorded.png)
+<img src="project_demonstration/attendence_recorded.png" alt="Attendance Recorded" width="400"/>
