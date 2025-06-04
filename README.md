@@ -37,6 +37,7 @@ This project implements a **Face Recognition based Attendance System** using Pyt
 1. 🔍 Face Detected
 
 The system detects faces in real-time from the webcam feed and marks them with bounding boxes.
+
 <img src="project_demonstration/image_detected.png" alt="Face Detected" width="400"/>
 
 2. 🖥️ Terminal Output
